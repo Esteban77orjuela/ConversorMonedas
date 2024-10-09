@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0e22fd-ac95-4e33-8cdb-d6e04dd670fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorMonedas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/APIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorMonedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Convertidor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MenuUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TasaCambio.java" afterDir="false" />
+    <list default="true" id="ef0e22fd-ac95-4e33-8cdb-d6e04dd670fc" name="Changes" comment="Final Version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Esteban77orjuela"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Esteban77orjuela/Conversor-Moneda",
+    "accountId": "f9617b4c-fb04-4c47-b359-1e3d89bf0135"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -45,7 +47,7 @@
   "keyToString": {
     "Application.ConversorMonedas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/esteb/Downloads/gson-2.11.0.jar",
@@ -78,6 +80,30 @@
       <option name="presentableId" value="Default" />
       <updated>1727992815729</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final Version">
+      <option name="closed" value="true" />
+      <created>1728511555509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728511555509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Version" />
   </component>
 </project>
